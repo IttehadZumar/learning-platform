@@ -5,10 +5,10 @@ import CourseSummaryCard from '../CourseSummaryCard/CourseSummaryCard';
 
 const Course = () => {
   const allCourse = useLoaderData();
- 
+
   return (
     <div>
-     
+
       <h2 className=''>Available Courses {allCourse.length}</h2>
       <Row className='row-cols-1 row-cols-lg-2 g-4'>
         <>
@@ -25,3 +25,26 @@ const Course = () => {
 };
 
 export default Course;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
