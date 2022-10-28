@@ -11,15 +11,39 @@ const Error = () => {
       <div className="error-box">
         <h1><span className='ops'>Ops!!</span> An Error Ocurred !</h1>
         {error && (
-            <div>
-              <span className='not-f'>{error.statusText || error.message}</span>
-              <br>
-              </br><span className='num'>{error.status}</span>
-            </div>
-          )}
+          <div>
+            <span className='not-f'>{error.statusText || error.message}</span>
+            <br>
+            </br><span className='num'>{error.status}</span>
+          </div>
+        )}
       </div>
     </div>
   );
 };
 
 export default Error;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
