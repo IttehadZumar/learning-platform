@@ -1,6 +1,6 @@
 Binary brains
 
-live site link: https://binary-brains-bf1e6.web.app/course
+live site link: https://coursebd-d7adc.web.app/
 
 feathers:
 1.Courses
@@ -15,3 +15,11 @@ list of technologies
 3.vercel
 4.firebase
 5.react router dom
+
+
+
+
+
+
+
+
